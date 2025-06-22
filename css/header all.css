@@ -1,0 +1,59 @@
+ .indexn {
+    background-color: darkblue;
+  
+  padding-top: 3px;
+  
+  padding-bottom: 3px;
+  
+  border-bottom: 10px;
+   
+ text-align: center;
+
+}
+
+
+.indexa {
+    font-size: 20px;
+  
+    text-decoration: none;
+    
+
+      color: #ffffff;
+ 
+ }
+
+
+.indexl {
+      display: inline-block;
+  
+    padding: 15px;
+   
+   border-bottom: 3px solid transparent;
+      transition: 1s linear(0 0%, 1 100%);
+ 
+ }
+     
+  
+  
+  
+  
+  
+ 
+
+ .indexa:hover li {
+     
+color: #0a0004;
+  }
+ 
+ 
+
+ 
+  .indexl:hover{
+      background-color: #b3c3d1;
+  
+    border-bottom: 3px solid #d31261;
+    
+  color:red;
+      font-size:20px;
+ 
+ }

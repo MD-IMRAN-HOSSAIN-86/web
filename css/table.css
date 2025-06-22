@@ -1,0 +1,29 @@
+
+				h1,.p2 {color: white;
+				background-color: darkblue;
+				border: 5px solid rgb(240, 128, 128);
+				text-align: center;}
+
+				form{background-color: purple;
+				border:10px groove lime;
+				padding: 10px;
+				margin: 5px;
+				color: lime;}
+
+				
+
+				.d2{background-color: rgb(36, 13, 243);}
+				fieldset{border: 5px groove darkgreen;}
+
+				.d1,.d3 {background-color: navy;}
+			
+
+
+				p{
+				color: white;
+				text-align: center;
+				font-size:30px;}
+
+				.p2{color: lime;
+				font-weight:10px;}
+				 

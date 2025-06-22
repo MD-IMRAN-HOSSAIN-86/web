@@ -1,0 +1,39 @@
+legend{
+    background-color:black;
+    color: white;
+
+}
+
+fieldset{
+    background-color:#e8d8d899;
+    font-size: 20px;
+    border: 5px groove green;
+    color: blue;
+}
+
+input{
+    border:0 #b4b4d6 solid;
+}
+body{
+    background-image: url(../img/log.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+.sp2{
+    color: black;
+    font-size: 15px;
+  
+}
+.sp1{
+    padding-right: 5px;
+    font-size: 15px;
+    color: black;
+}
+
+li{
+    display: inline-block;
+    text-align: center;
+}

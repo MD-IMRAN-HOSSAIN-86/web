@@ -1,0 +1,13 @@
+body{
+    background-image: url(../img/contact.jpg);
+  background-size: cover;
+   background-attachment: fixed;
+}
+p{
+    text-align:left;
+    font-size: 03px;
+    font-weight: 20px;
+    font-style: italic;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: chartreuse;
+}
